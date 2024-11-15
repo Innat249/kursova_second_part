@@ -1,0 +1,16 @@
+C:\Users\Inna\source\repos\vonabudeznati\vonabudeznati\bin\Debug\net8.0-windows\vonabudeznati.exe
+C:\Users\Inna\source\repos\vonabudeznati\vonabudeznati\bin\Debug\net8.0-windows\vonabudeznati.deps.json
+C:\Users\Inna\source\repos\vonabudeznati\vonabudeznati\bin\Debug\net8.0-windows\vonabudeznati.runtimeconfig.json
+C:\Users\Inna\source\repos\vonabudeznati\vonabudeznati\bin\Debug\net8.0-windows\vonabudeznati.dll
+C:\Users\Inna\source\repos\vonabudeznati\vonabudeznati\bin\Debug\net8.0-windows\vonabudeznati.pdb
+C:\Users\Inna\source\repos\vonabudeznati\vonabudeznati\obj\Debug\net8.0-windows\vonabudeznati.Form1.resources
+C:\Users\Inna\source\repos\vonabudeznati\vonabudeznati\obj\Debug\net8.0-windows\vonabudeznati.csproj.GenerateResource.cache
+C:\Users\Inna\source\repos\vonabudeznati\vonabudeznati\obj\Debug\net8.0-windows\vonabudeznati.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Inna\source\repos\vonabudeznati\vonabudeznati\obj\Debug\net8.0-windows\vonabudeznati.AssemblyInfoInputs.cache
+C:\Users\Inna\source\repos\vonabudeznati\vonabudeznati\obj\Debug\net8.0-windows\vonabudeznati.AssemblyInfo.cs
+C:\Users\Inna\source\repos\vonabudeznati\vonabudeznati\obj\Debug\net8.0-windows\vonabudeznati.csproj.CoreCompileInputs.cache
+C:\Users\Inna\source\repos\vonabudeznati\vonabudeznati\obj\Debug\net8.0-windows\vonabudeznati.dll
+C:\Users\Inna\source\repos\vonabudeznati\vonabudeznati\obj\Debug\net8.0-windows\refint\vonabudeznati.dll
+C:\Users\Inna\source\repos\vonabudeznati\vonabudeznati\obj\Debug\net8.0-windows\vonabudeznati.pdb
+C:\Users\Inna\source\repos\vonabudeznati\vonabudeznati\obj\Debug\net8.0-windows\vonabudeznati.genruntimeconfig.cache
+C:\Users\Inna\source\repos\vonabudeznati\vonabudeznati\obj\Debug\net8.0-windows\ref\vonabudeznati.dll
